@@ -18,3 +18,4 @@ export class RecipeListComponent {
     this.recipeWasSelected.emit(recipe);
   }
 }
+
